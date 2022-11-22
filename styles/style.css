@@ -1,0 +1,109 @@
+.title-mini{
+    font-size: 14px;
+    font-weight: bold;
+    color: blue;
+
+}
+h2{
+    font-size: 42px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+
+
+
+section.one{
+    width: 1088px;
+    height: 376px;
+    margin: 50px auto;
+    box-sizing: border-box;
+}
+.left{
+    background-color: #F8F8F8;
+    width: 536px;
+    height: 190px;
+    display: inline-block;
+    margin: 50px auto;
+}
+div.left-2{
+    display: inline-block;
+    vertical-align: middle;
+}
+.title-sxva{
+    font-size: 14px;
+    font-weight: bold;
+    color: blue;
+}
+.text-1, .text-2{
+    width: 280px;
+    height: 160px;
+}
+.right{
+    width: 536px;
+    height: 190px;
+    background-color: #be2b2b;
+    margin-top: 50px;
+    margin-left: 10px;
+    display: inline-block;
+}
+div.right-1{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+
+section.two{
+    width: 1088px;
+    height: 560px;
+    margin: 50px auto;
+    box-sizing: border-box;
+}
+div.erti, div.ori, div.sami{
+    margin: 50px auto;
+    display: inline-block;
+}
+div.ori, div.sami{
+    margin-left: 10px;
+}
+div.statia-1, div.statia-2, div.statia-3{
+    width: 352px;
+    height: 148px;
+    background-color: #F8F8F8;
+    text-align: center;
+    padding-top: 30px;
+}
+.title-3{
+    font-size: 14px;
+    font-weight: bold;
+    color: blue;
+}
+.text-3, .text-4, .text-5{
+    padding: 20px;
+}
+
+
+
+/*qartuli fontebi*/
+
+.text-1{
+    font-family: "ALK Sanet", sans-serif;
+}
+.text-2{
+    font-family: "Arial GEO BoldItalic", sans-serif;
+    color: ivory;
+}
+
+
+/*latinuri fontebi*/
+
+.text-3, .text-5{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.text-4{
+    font-family: 'Dancing Script';
+}
